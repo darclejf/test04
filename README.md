@@ -14,12 +14,12 @@ This project use plugins:
 
 ### Deployment
 
-1 - Run ..wildfly/bin/standalone.bat
-2 - In project root cmd, run mvn verify
-3 - Run mvn package
-4 - run mvn clean install wildfly:deploy
-5 - automated test result display on cmd
-6 - url http://localhost:8080/TestDevGrid/
+- Run ..wildfly/bin/standalone.bat
+- In project root cmd, run mvn verify
+- Run mvn package
+- run mvn clean install wildfly:deploy
+- automated test result display on cmd
+- url http://localhost:8080/TestDevGrid/
 
 ## Postman endpoints
 
